@@ -1,2 +1,1 @@
-# sh-app
-applications for bash
+# Applications for bash
